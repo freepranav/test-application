@@ -1,0 +1,7 @@
+/Users/testmachine/Projects/test_application/test_application/bin/Release/net6.0/publish/test_application
+/Users/testmachine/Projects/test_application/test_application/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/testmachine/Projects/test_application/test_application/bin/Release/net6.0/publish/appsettings.json
+/Users/testmachine/Projects/test_application/test_application/bin/Release/net6.0/publish/test_application.dll
+/Users/testmachine/Projects/test_application/test_application/bin/Release/net6.0/publish/test_application.deps.json
+/Users/testmachine/Projects/test_application/test_application/bin/Release/net6.0/publish/test_application.runtimeconfig.json
+/Users/testmachine/Projects/test_application/test_application/bin/Release/net6.0/publish/test_application.pdb
